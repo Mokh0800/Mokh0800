@@ -1,17 +1,25 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋 I'm Mokh</h1>
+<h1 align="center">Hi 👋 I'm Mohamed Mokhtar Benkhaled</h1>
 <h3 align="center">C / C++ Developer | Qt Desktop Apps | SDL 2D Game Developer</h3>
 
 ---
 
-<!-- ABOUT -->
+## 🎓 Education
+
+**ESPRIT – Ecole Supérieure Privée d’Ingénierie et de Technologies, Ariana**
+
+🏆 Ranked **1st in class – 1st Year**  
+📊 Average: **17.17 / 20**
+
+---
+
 ## 🚀 About Me
 
-- 🖥 Built a Qt local application **Optek**
-- 🎮 Created a 2D game **Blood Bond** using SDL 1.2
-- 💡 Passionate about system-level programming
-- 🎯 Focused on performance & clean architecture
-- 🌱 Currently improving advanced C++ and software design
+- 🖥 Developer of **Optek** – Local Qt Desktop Application  
+- 🎮 Creator of **Blood Bond** – 2D Game using SDL 1.2  
+- 💡 Passionate about low-level programming & system optimization  
+- 🎯 Focused on clean architecture and performance  
+- 🌱 Continuously improving advanced C++ and software design skills  
 
 ---
 
@@ -35,20 +43,19 @@
 
 ---
 
-<!-- PROJECTS -->
 ## 🔥 Featured Projects
 
 ### 🖥 Optek
 Local desktop application built using **C++ & Qt**  
 ✔ Structured architecture  
-✔ Optimized local performance  
-✔ Clean UI/UX  
+✔ Optimized performance  
+✔ Clean and responsive UI  
 
 ### 🎮 Blood Bond
 2D game developed in **C using SDL 1.2**  
 ✔ Real-time rendering  
 ✔ Collision detection  
-✔ Custom game engine logic  
+✔ Custom game logic  
 ✔ Performance optimized  
 
 ---
@@ -66,11 +73,12 @@ Local desktop application built using **C++ & Qt**
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mokhtar_benkhaled_/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/medmokhtar.benkhaled)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedmokhtar.benkhaled@esprit.tn)
 
 ---
 
-⭐ *“Code is structured creativity.”*
+⭐ *“Discipline + Code = Excellence.”*
